@@ -5,6 +5,7 @@
 As a financial investor in the equity market, being aware of the current stock prices is essential. For this reason, I created a simple Java application using an API (Alpha Vantage) to deliver stock price data in the U.S. market.
 
 # Built With
+The whole application was developed using Java with the Maven build tool in order to import required modules and libraries to parse and select required data.
 
 # Getting Started
 
