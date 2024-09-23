@@ -26,5 +26,6 @@ After setting up Python, you can install the application to your local environme
    ```
 3. Set your API key as the environment variable
    * Windows
+   * Linux/MacOS
 
 ## Usage
