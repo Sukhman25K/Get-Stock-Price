@@ -35,3 +35,4 @@ After setting up Python, you can install the application to your local environme
      ```
 
 ## Usage
+You can go ahead and run the application when it's finished and store it in your local environment. The application can be run in different ways where the first one would be using a terminal. Navigate to the folder where the application is stored and type:
