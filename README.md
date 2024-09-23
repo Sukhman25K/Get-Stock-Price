@@ -15,6 +15,8 @@ Check whether Java is already installed with
 ```sh
 java -version
 ```
+If Java is not installed, you can do so from the <a href="https://www.java.com/en/download/">Java</a> website by selecting the appropriate installer for your required environment.
+
 
 
 ## Installation
