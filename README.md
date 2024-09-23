@@ -30,5 +30,8 @@ After setting up Python, you can install the application to your local environme
      $env:API_KEY="ENTER YOUR API KEY"
      ```
    * Linux/MacOS
+     ```
+     export API_KEY=ENTER YOUR API KEY
+     ```
 
 ## Usage
