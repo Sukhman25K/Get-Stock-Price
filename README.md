@@ -25,6 +25,6 @@ After setting up Python, you can install the application to your local environme
    git clone https://github.com/Sukhman25K/Get-Stock-Price.git
    ```
 3. Set your API key as the environment variable
-   - Windows
+   * Windows
 
 ## Usage
