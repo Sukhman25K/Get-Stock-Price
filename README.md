@@ -36,3 +36,6 @@ After setting up Java, you can install the application to your local environment
 
 ## Usage
 You can go ahead and run the application when it's finished and store it in your local environment. The application can be run in different ways where the first one would be using a terminal. Navigate to the folder where the application is stored and type:
+```sh
+mvn clean compile exec:java -Dexec.mainClass="com.example.EquityPrice"
+```
