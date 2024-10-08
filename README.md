@@ -18,7 +18,7 @@ java -version
 If Java is not installed, you can do so from the <a href="https://www.java.com/en/download/">Java</a> website by selecting the appropriate installer for your required environment.
 
 ## Installation
-After setting up Python, you can install the application to your local environment with the following instructions:
+After setting up Java, you can install the application to your local environment with the following instructions:
 1. Get your free API key at <a href="https://www.alphavantage.co/support/#api-key">Alpha Vantage</a>
 2. Clone the repo
    ```
