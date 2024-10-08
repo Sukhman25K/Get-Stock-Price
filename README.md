@@ -39,3 +39,4 @@ You can go ahead and run the application when it's finished and store it in your
 ```sh
 mvn clean compile exec:java -Dexec.mainClass="com.example.EquityPrice"
 ```
+Another way to run the application would be by using an IDE such as IntelliJ IDEA or a code editor like VS code. 
